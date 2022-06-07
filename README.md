@@ -1,4 +1,4 @@
-# aWASoMe [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)]
+# aWASoMe [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > An aWASoMe list of all things related to WASM contract development in the Dotsama community.
 
 ![Awesome](mermaid-diagram.svg)
@@ -16,7 +16,7 @@
 - `AssemblyScript` [Github](https://github.com/LimeChain/as-scale-codec) 
 
 ## Smart Contract compilers
-- `cargo-contract` [Github](https://github.com/paritytech/cargo-contract/) - uses Rustc compiler
+- `cargo-contract` [Github](https://github.com/paritytech/cargo-contract/) - ink! compiler, uses Rustc compiler
 - `solang` [Github](https://github.com/hyperledger-labs/solang) - compiles Solidity smart contracts to WASM
 
 ## Contract Interaction
@@ -31,8 +31,8 @@
 
 ## Test nodes
 - `swanky-node` [Github](https://github.com/AstarNetwork/swanky-node) - standalone node supporting pallet-contracts, instant seal and manual seal
-- `substrate-contracts-node` - standalone node supporting pallet-contracts
-- `Shibuya parachain` [Network Details](https://docs.astar.network/integration/network-details), [Faucet](https://portal.astar.network/#/assets) - testnet (with Relay chain) maintained by Astar
+- `substrate-contracts-node` [Github](https://github.com/paritytech/substrate-contracts-node) - standalone node supporting pallet-contracts
+- `Shibuya parachain` [Network Details](https://docs.astar.network/integration/network-details), [Faucet](https://portal.astar.network/#/assets) - testnet (Parachain on test Relay chain) maintained by Astar
 
 ## Support
 - [Substrate StackExchange](https://substrate.stackexchange.com/) - ask any smart-contract related question (use tags: ink, contract, smart-contract)
@@ -52,7 +52,7 @@
 
 ## dApp development
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
-- [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) 
+- [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) for WASM
 - [DIA Oracle](https://docs.astar.network/wasm-smart-contracts/smart-contract-development) - Oracle for WASM contracts on Astar Network
 
 ## Templates
