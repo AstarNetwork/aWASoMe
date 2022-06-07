@@ -9,31 +9,39 @@
 - List of projects building WASM contracts on Shiden/Astar
 ## Contract language
 ### ink!
-- [ink! github repo](https://github.com/paritytech/ink)
-- [ink! Intro](https://paritytech.github.io/ink/)
-- [ink! Official Documentation](https://ink.substrate.io/)
-- [ink! Rust doc](https://paritytech.github.io/ink/ink_lang/)
-- ink! examples
+- `ink!` [Github](https://github.com/paritytech/ink)
+- `ink!` [Intro](https://paritytech.github.io/ink/)
+- `ink!` [Official Documentation](https://ink.substrate.io/)
+- `ink!` [Rust doc](https://paritytech.github.io/ink/ink_lang/)
+- `ink! examples`
   - Parity [examples](https://github.com/paritytech/ink/tree/master/examples)
   - Openbrush [examples](https://github.com/Supercolony-net/openbrush-contracts/tree/main/examples)
 ### ask!
-- [AssemblyScript](https://github.com/LimeChain/as-scale-codec) 
+- AssemblyScript [Github](https://github.com/LimeChain/as-scale-codec) 
+
+## Smart Contract compilers
+- `cargo-contract` [Github](https://github.com/paritytech/cargo-contract/), uses Rustc compiler
+- `solang`[Github](https://github.com/hyperledger-labs/solang) - compiles Solidity smart contracts to WASM
+
+## Contract Interaction
+- `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
+  - `ContractsUI` [Github](https://github.com/paritytech/contracts-ui) [App](https://paritytech.github.io/canvas-ui/#/instantiate) simple interaction with Substrate contracts
+  - `@polkadot/api-contract` [Docs](https://polkadot.js.org/docs/api-contract) thin layer on-top of the available API transactions to manage Substrate contracts 
+### Wallets
+- `polkadot{.js}` [website](https://polkadot.js.org/extension/), a browser extension
+- `Talisman` [website](https://talisman.xyz/#)
+
 
 ## Support
-- [Stack Exchange](https://substrate.stackexchange.com/) - The best place for all technical questions.
-- Support for teams building on Astar and Shiden [Builders Program](https://astar.network/builders-program/).
-- [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
+- Substrate [StackExchange](https://substrate.stackexchange.com/) (use tags: ink, contract, smart-contract)
+- Astar [Discord](https://discord.gg/Z3nC9U4) (Use **Developer Support** channel)
+- Astar [WASM Docs](https://docs.astar.network/wasm-smart-contracts/smart-contract-development)
 
-## Social
-- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
-- [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
-
-## Events
+## Learning
 - [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
   things Substrate.
 - [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
   collaborative learning sessions.
-- Wasm conferance
 
 ## Videos
 
