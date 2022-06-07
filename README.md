@@ -45,10 +45,10 @@
 ## Learning
 - [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
   things Substrate.
-- [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
+- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/)
   collaborative learning sessions.
-- Substrate Seminar: [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10)
-- Figment tutorial: [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js)
+- [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
+- [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
 
 ## dApp development
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
