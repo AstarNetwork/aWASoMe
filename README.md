@@ -19,6 +19,11 @@
 - `cargo-contract` [Github](https://github.com/paritytech/cargo-contract/) - ink! compiler, uses Rustc compiler
 - `solang` [Github](https://github.com/hyperledger-labs/solang) - compiles Solidity smart contracts to WASM
 
+## Contract Development
+- `Swanky` [npm](https://www.npmjs.com/package/@astar-network/swanky-cli) - Swanky nmp repository (Github and docs will be published after Beta release)
+- `Openbrush Library` [Github](https://github.com/Supercolony-net/openbrush-contracts), [Docs](https://docs.openbrush.io/) - OpenBrush is a library of ink! contracts, like OpenZeppelin
+- `PSP` [Github](https://github.com/w3f/PSPs) - Polkadot Standards Proposals for ink! contracts by W3F
+
 ## Contract Interaction
 - `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
 - `ContractsUI` [Github](https://github.com/paritytech/contracts-ui), [App](https://paritytech.github.io/canvas-ui/#/instantiate) - simple interaction with Substrate contracts
@@ -38,17 +43,16 @@
 - [Substrate StackExchange](https://substrate.stackexchange.com/) - ask any smart-contract related question (use tags: ink, contract, smart-contract)
 - [Astar Discord](https://discord.gg/Z3nC9U4) - connect with Astar WASM team (Use **Developer Support** channel) 
 - [Astar WASM Docs](https://docs.astar.network/wasm-smart-contracts/smart-contract-development) - WASM dev related Docs by Astar
-- [Openbrush Contracts](https://github.com/Supercolony-net/openbrush-contracts) - OpenBrush releases
-- [Openbrush Docs](https://docs.openbrush.io/) - How to use OpenBrush
 
 
 ## Learning
+- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/)
+- [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
+- [Building DEX Smart Contract in ink!](https://www.crowdcast.io/e/fundrasing-workshop) - Simple DEX implementation in ink by Pierre Ossun
+- [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
+- [A BTC price bot with Phala's ink!](https://github.com/Phala-Network/fat-contract-workshop) - A Substrate seminar on Phala's Fat (PhaT) Contract [Youtube](https://www.youtube.com/watch?v=aZGj4FhkY6A&t=1566s)
 - [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
   things Substrate.
-- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/)
-  collaborative learning sessions.
-- [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
-- [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
 
 ## dApp development
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
