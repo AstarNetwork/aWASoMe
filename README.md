@@ -9,6 +9,7 @@
 - `ink!` [Intro](https://paritytech.github.io/ink/)
 - `ink!` [Official Documentation](https://ink.substrate.io/)
 - `ink!` [Rust doc](https://paritytech.github.io/ink/ink_lang/)
+- `awesome ink!` [Github](https://github.com/paritytech/awesome-ink) - A curated list of awesome projects for Parity's ink!
 - `ink! examples`
   - Parity [examples](https://github.com/paritytech/ink/tree/master/examples)
   - Openbrush [examples](https://github.com/Supercolony-net/openbrush-contracts/tree/main/examples)
@@ -43,11 +44,12 @@
 ## Support
 - [Substrate StackExchange](https://substrate.stackexchange.com/) - ask any smart-contract related question (use tags: ink, contract, smart-contract)
 - [Astar Discord](https://discord.gg/Z3nC9U4) - connect with Astar WASM team (Use **Developer Support** channel) 
+- [Openbrush Element](https://matrix.to/#/!utTuYglskDvqRRMQta:matrix.org?via=matrix.org&via=t2bot.io&via=matrix.parity.io) - Matrix/Element room, support for developing in ink! and OpenBrush
 - [Astar WASM Docs](https://docs.astar.network/wasm-smart-contracts/smart-contract-development) - WASM dev related Docs by Astar
 
 
 ## Learning
-- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/)
+- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/) - Guided Tutorial for Beginners  
 - [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
 - [Building DEX Smart Contract in ink!](https://www.crowdcast.io/e/fundrasing-workshop) - Simple DEX implementation in ink by Pierre Ossun
 - [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
