@@ -38,6 +38,7 @@
 - `swanky-node` [Github](https://github.com/AstarNetwork/swanky-node) - standalone node supporting pallet-contracts, instant seal and manual seal
 - `substrate-contracts-node` [Github](https://github.com/paritytech/substrate-contracts-node) - standalone node supporting pallet-contracts
 - `Shibuya parachain` [Network Details](https://docs.astar.network/integration/network-details), [Faucet](https://portal.astar.network/#/assets) - testnet (Parachain on test Relay chain) maintained by Astar
+- `Contracts on Rococo` [Polkadot.js](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-contracts-rpc.polkadot.io#/explorer), [Faucet](https://wiki.polkadot.network/docs/learn-DOT#getting-rococo-tokens) - testnet (Parachain on test Rococo Relay chain) maintained by Parity
 
 ## Support
 - [Substrate StackExchange](https://substrate.stackexchange.com/) - ask any smart-contract related question (use tags: ink, contract, smart-contract)
