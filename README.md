@@ -7,7 +7,7 @@
 ### ink!
 - `ink!` [Github](https://github.com/paritytech/ink)
 - `ink!` [Intro](https://paritytech.github.io/ink/)
-- `ink!` [Official Documentation](https://ink.substrate.io/)
+- `ink!` [Official Documentation](https://use.ink/)
 - `ink!` [Rust doc](https://paritytech.github.io/ink/ink_lang/)
 - `awesome ink!` [Github](https://github.com/paritytech/awesome-ink) - A curated list of awesome projects for Parity's ink!
 - `ink! examples`
