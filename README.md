@@ -13,6 +13,8 @@
 - `ink! examples`
   - Parity [examples](https://github.com/paritytech/ink/tree/master/examples)
   - Openbrush [examples](https://github.com/Supercolony-net/openbrush-contracts/tree/main/examples)
+  - Astar dapps [examples](https://github.com/AstarNetwork/wasm-showcase-dapps)
+  - Astar chain extension [examples](https://github.com/AstarNetwork/chain-extension-contracts)
 ### ask!
 - `AssemblyScript` [Github](https://github.com/LimeChain/as-scale-codec) 
 
@@ -31,6 +33,8 @@
 - `@polkadot/api-contract` [Github](https://github.com/polkadot-js/api) [Docs](https://polkadot.js.org/docs/api-contract) - thin layer on-top of the available API transactions to manage Substrate contracts 
 - `Redspot` [Github](https://github.com/patractlabs/redspot) - A Truffle-like toolkit for Substrate node and pallet-contracts
 - `Sidecar` [Github](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes
+- `SubXt` [Github](https://github.com/paritytech/subxt) - A Rust library to **SUB**mit e**XT**rinsics to a substrate node via RPC.
+
 ### Wallets
 - `polkadot{.js}` [website](https://polkadot.js.org/extension/) - a browser extension
 - `Talisman` [website](https://talisman.xyz/#) - a browser extension
