@@ -28,7 +28,7 @@
 - `PSP` [Github](https://github.com/w3f/PSPs) - Polkadot Standards Proposals for ink! contracts by W3F
 
 ## dApps
-- `Showcase dApps` [Github](https://github.com/AstarNetwork/wasm-showcase-dapps): Collection of production ready dApps (contracts + UI) - UniswapV2, Farming, NFT, ..
+- `Showcase dApps` [Github](https://github.com/AstarNetwork/wasm-showcase-dapps) - Collection of production ready dApps (contracts + UI) - UniswapV2, Farming, NFT, ..
 
 ## Contract Interaction
 - `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
