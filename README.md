@@ -27,6 +27,9 @@
 - `Openbrush Library` [Github](https://github.com/Supercolony-net/openbrush-contracts), [Docs](https://docs.openbrush.io/) - OpenBrush is a library of ink! contracts, like OpenZeppelin
 - `PSP` [Github](https://github.com/w3f/PSPs) - Polkadot Standards Proposals for ink! contracts by W3F
 
+## dApps
+- `Showcase dApps` [Github](https://github.com/AstarNetwork/wasm-showcase-dapps) - Collection of production ready dApps (contracts + UI) - UniswapV2, Farming, NFT, ..
+
 ## Contract Interaction
 - `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
 - `ContractsUI` [Github](https://github.com/paritytech/contracts-ui), [App](https://paritytech.github.io/canvas-ui/#/instantiate) - simple interaction with Substrate contracts
