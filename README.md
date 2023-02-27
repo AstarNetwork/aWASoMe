@@ -1,4 +1,6 @@
 # aWASoMe [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![wasm-7d7f59e77aa402099ee74b8771d1134f](https://user-images.githubusercontent.com/34627453/221525327-1a3bad79-3093-4b2b-9e18-4ae87743e09b.png)
+
 An aWASoMe list of all things related to WASM contract development.
 
 
@@ -14,7 +16,7 @@ An aWASoMe list of all things related to WASM contract development.
   - Openbrush [examples](https://github.com/727-Ventures/openbrush-contracts/tree/main/examples)
   - Astar dapps [examples](https://github.com/AstarNetwork/wasm-showcase-dapps)
   - Swanky-dapps [examples](https://github.com/orgs/swanky-dapps/repositories)
-  
+- `Astar ink!` [Docs](https://docs.astar.network/docs/build/wasm/)
 ### ask!
 - `AssemblyScript` [Github](https://github.com/LimeChain/as-scale-codec) [Example](https://docs.astar.network/docs/build/wasm/ask_contracts)
 
@@ -59,6 +61,7 @@ An aWASoMe list of all things related to WASM contract development.
 
 
 ## Learning
+- [From Zero to ink! Hero](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/) - ink! tutorials: Flipper, NFT, Uniswap v2
 - [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/) - Guided Tutorial for Beginners  
 - [Introduction to ink!](https://www.crowdcast.io/e/na-hackathon/13) - ink! workshop by Hernando (Parity)
 - [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
@@ -72,7 +75,7 @@ An aWASoMe list of all things related to WASM contract development.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) for WASM
 - [DIA Oracle](https://docs.astar.network/wasm-smart-contracts/smart-contract-development) - Oracle for WASM contracts on Astar Network
-- NFT ninting dApp, [Github](https://github.com/Maar-io/ink-mint-dapp), [Youtube](https://www.youtube.com/watch?v=YnmBotet6_M)
+- NFT minting dApp, [Github](https://github.com/Maar-io/ink-mint-dapp), [Youtube](https://www.youtube.com/watch?v=YnmBotet6_M)
 
 ## Templates
 - [Substrate-Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
