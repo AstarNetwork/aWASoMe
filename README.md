@@ -33,6 +33,7 @@ An aWASoMe list of all things related to WASM contract development.
 ## dApps
 - `Swanky-dapps` [examples](https://github.com/orgs/swanky-dapps/repositories)
 - `use.ink dapp examples` [Docs](https://use.ink/examples/dapps)
+- `ink! 4.0 Workshop` [Github](https://github.com/paritytech/ink-workshop) - The workshop is a game, in which students write a smart contract that plays on their behalf – an agent. 
 
 ## Contract Interaction
 - `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
@@ -62,14 +63,11 @@ An aWASoMe list of all things related to WASM contract development.
 
 ## Learning
 - [From Zero to ink! Hero](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/) - ink! tutorials: Flipper, NFT, Uniswap v2
-- [Substrate ink! Tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/) - Guided Tutorial for Beginners  
 - [Introduction to ink!](https://www.crowdcast.io/e/na-hackathon/13) - ink! workshop by Hernando (Parity)
 - [OpenBrush: a library to build ink! smart contracts](https://www.youtube.com/watch?v=I5OFGNVvzOc&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS&index=10) - Substrate Seminar
 - [Building DEX Smart Contract in ink!](https://www.crowdcast.io/e/fundrasing-workshop) - Simple DEX implementation in ink by Pierre Ossun
 - [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
 - [A BTC price bot with Phala's ink!](https://github.com/Phala-Network/fat-contract-workshop) - A Substrate seminar on Phala's Fat (PhaT) Contract [Youtube](https://www.youtube.com/watch?v=aZGj4FhkY6A&t=1566s)
-- [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
-  things Substrate.
 
 ## dApp development
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
