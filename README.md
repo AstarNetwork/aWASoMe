@@ -6,10 +6,7 @@ An aWASoMe list of all things related to WASM contract development.
 
 ## Contract language
 ### ink!
-- `ink!` [Github](https://github.com/paritytech/ink)
-- `ink!` [Intro](https://paritytech.github.io/ink/)
-- `ink!` [Official Documentation](https://use.ink/)
-- `ink!` [Rust doc](https://docs.rs/ink/4.0.0/ink/)
+- `ink!` [Github](https://github.com/paritytech/ink) | [Intro](https://paritytech.github.io/ink/) | [Docs](https://use.ink/) | [Docs.rs](https://docs.rs/ink/4.0.0/ink/)
 - `awesome ink!` [Github](https://github.com/paritytech/awesome-ink) - A curated list of awesome projects for Parity's ink!
 - `ink! examples`
   - Parity [examples](https://github.com/paritytech/ink-examples)
@@ -18,7 +15,7 @@ An aWASoMe list of all things related to WASM contract development.
   - Swanky-dapps [examples](https://github.com/orgs/swanky-dapps/repositories)
 - `Astar ink!` [Docs](https://docs.astar.network/docs/build/wasm/)
 ### ask!
-- `AssemblyScript` [Github](https://github.com/LimeChain/as-scale-codec) [Example](https://docs.astar.network/docs/build/wasm/ask_contracts)
+- `AssemblyScript` [Github](https://github.com/LimeChain/as-scale-codec) | [Example](https://docs.astar.network/docs/build/wasm/ask_contracts)
 
 ## Smart Contract compilers
 - `cargo-contract` [Github](https://github.com/paritytech/cargo-contract/) - ink! compiler, uses Rustc compiler
