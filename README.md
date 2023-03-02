@@ -31,6 +31,7 @@ An aWASoMe list of all things related to WASM contract development.
 - `Swanky-dapps` [examples](https://github.com/orgs/swanky-dapps/repositories)
 - `use.ink dapp examples` [Docs](https://use.ink/examples/dapps)
 - `ink! 4.0 Workshop` [Github](https://github.com/paritytech/ink-workshop) - The workshop is a game, in which students write a smart contract that plays on their behalf – an agent. 
+- `useInkathon` [Github](https://github.com/scio-labs/use-inkathon) React Hooks for Substrate & ink!
 
 ## Contract Interaction
 - `polkadot{.js}` [website](https://polkadot.js.org/apps/#/explorer), [Docs](https://polkadot.js.org/docs/api/) - an App to interact with Substrate node and pallet-contracts
