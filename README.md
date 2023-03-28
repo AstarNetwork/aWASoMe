@@ -11,7 +11,6 @@ An aWASoMe list of all things related to WASM contract development.
 - `ink! examples`
   - Parity [examples](https://github.com/paritytech/ink-examples)
   - Openbrush [examples](https://github.com/727-Ventures/openbrush-contracts/tree/main/examples)
-  - Astar dapps [examples](https://github.com/AstarNetwork/wasm-showcase-dapps)
   - Swanky-dapps [examples](https://github.com/orgs/swanky-dapps/repositories)
 - `Astar ink!` [Docs](https://docs.astar.network/docs/build/wasm/)
 ### ask!
