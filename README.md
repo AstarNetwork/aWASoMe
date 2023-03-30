@@ -72,5 +72,7 @@ An aWASoMe list of all things related to WASM contract development.
 - [DIA Oracle](https://docs.astar.network/wasm-smart-contracts/smart-contract-development) - Oracle for WASM contracts on Astar Network
 - NFT minting dApp, [Github](https://github.com/Maar-io/ink-mint-dapp), [Youtube](https://www.youtube.com/watch?v=YnmBotet6_M)
 
+## Grants
+[ink!ubator](https://github.com/smart-contract-bounty/Ecosystem-Grants) - A holistic bounty program that evolves ink! smart contacts, funded and approved by the Polkadot community/treasury. Initially pioneered by Astar Network, now includes Curators from Parity, Phala Network, Brushfam, Aleph Zero teams.
 ## Templates
 - [Substrate-Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
