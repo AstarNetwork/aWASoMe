@@ -65,6 +65,7 @@ An aWASoMe list of all things related to WASM contract development.
 - [Building DEX Smart Contract in ink!](https://www.crowdcast.io/e/fundrasing-workshop) - Simple DEX implementation in ink by Pierre Ossun
 - [Build an AMM on Polkadot using Ink!](https://learn.figment.io/tutorials/build-polkadot-amm-using-ink#how-to-interact-with-polkadot-js) - Figment tutorial
 - [A BTC price bot with Phala's ink!](https://github.com/Phala-Network/fat-contract-workshop) - A Substrate seminar on Phala's Fat (PhaT) Contract [Youtube](https://www.youtube.com/watch?v=aZGj4FhkY6A&t=1566s)
+- [Advance ink! on Storage](https://www.twitch.tv/videos/1817957273)
 
 ## dApp development
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
