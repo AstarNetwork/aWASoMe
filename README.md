@@ -30,6 +30,7 @@ An aWASoMe list of all things related to WASM contract development.
 - `use.ink Frontend` [Docs](https://use.ink/frontend/overview) - A React hooks library for ink!
 - `Swanky-dapps` [examples](https://github.com/orgs/swanky-dapps/repositories)
 - `use.ink dapp examples` [Docs](https://use.ink/examples/dapps)
+- `kitchen sink`[Github](https://github.com/paritytech/useink-kitchen-sink/tree/master)
 - `ink! 4.0 Workshop` [Github](https://github.com/paritytech/ink-workshop) - The workshop is a game, in which students write a smart contract that plays on their behalf – an agent. 
 - `useInkathon` [Github](https://github.com/scio-labs/use-inkathon) React Hooks for Substrate & ink!
 
